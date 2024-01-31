@@ -1,0 +1,6 @@
+Cardfight_Pack_Vol.1_(ENG)_Gallery 'NoneType' object has no attribute 'findChildren'
+Meer's_Present/Gallery 'NoneType' object has no attribute 'findChildren'
+Monthly_Bushiroad_Gallery 'NoneType' object has no attribute 'findChildren'
+Promo_Cards_Gallery 'NoneType' object has no attribute 'findChildren'
+V_Promo_Cards_Gallery 'NoneType' object has no attribute 'findChildren'
+VGE-TD05 'NoneType' object has no attribute 'findChildren'

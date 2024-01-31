@@ -1,0 +1,22 @@
+
+
+
+sets
+nations_new
+nations_old
+clans
+
+normal units
+trigger units
+strides
+g guardians
+order
+
+tokens
+markers
+
+skills
+effect types
+grade 3 skills
+keywords
+
