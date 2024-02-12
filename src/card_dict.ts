@@ -1,23 +1,23 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
 
-const get_main_info = async (card: cheerio.Cheerio<cheerio.Element>) {
+const get_main_info = async (card: cheerio.Cheerio<cheerio.Element>) => {
 
 }
 
-const get_sets = async (card: string) {
+const get_sets = async (card: string) => {
 
 }
 
-const get_flavor_text = async (card: string) {
+const get_flavor_text = async (card: string) => {
 
 }
 
-const get_effects = async (card: string) {
+const get_effects = async (card: string) => {
 
 }
 
-const get_tourney_status = async (card: string) {
+const get_tourney_status = async (card: string) => {
 
 }
 
