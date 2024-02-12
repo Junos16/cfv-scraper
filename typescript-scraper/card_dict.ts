@@ -1,27 +1,27 @@
 import axios from "axios";
 import * as cheerio from "cheerio";
 
-function get_main_info() {
+const get_main_info = async (card: cheerio.Cheerio<cheerio.Element>) {
 
 }
 
-function get_sets() {
+const get_sets = async (card: string) {
 
 }
 
-function get_flavor_text() {
+const get_flavor_text = async (card: string) {
 
 }
 
-function get_effects() {
+const get_effects = async (card: string) {
 
 }
 
-function get_tourney_status() {
+const get_tourney_status = async (card: string) {
 
 }
 
-async function get_card_dict(card: string) {
+export const get_card_dict  = async (card: string) => {
     let base_url = 'https://cardfight.fandom.com/wiki/';
     let page = base_url + card;
     const response = await axios.get(page);
